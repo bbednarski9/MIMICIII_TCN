@@ -2,8 +2,8 @@
 
 The notebook in this repository contains a PyTorch implementation of the temporal convolutional network (TCN) for critial care outcome prediction in the MIMIC-III dataset. This work was published in Nature - Scientific Reports on December 8th, 2022.
 
-**Paper:** [Temporal convolutional networks and data rebalancing for clinical length of stay and mortality prediction]
-(https://www.nature.com/articles/s41598-022-25472-z)
+**Paper:** [Temporal convolutional networks and data rebalancing for clinical length of stay and mortality prediction] (https://www.nature.com/articles/s41598-022-25472-z)
+
 **Authors:** Bryan P. Bednarski, Akash Deep Singh, Wenhao Zhang, William M. Jones, Arash Naeim, Ramin Ramezani
 
 ## Abstract
@@ -13,6 +13,8 @@ It is critical for hospitals to accurately predict patient length of stay (LOS) 
 ## Instructions for model
 
 ## Credit to MIMIC-Extract & PhysioNet
+
+
 
 ## Credit to TCN Authors
 
