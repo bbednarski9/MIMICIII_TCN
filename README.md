@@ -31,6 +31,7 @@ mkdir results
 3. Access MIMIC-III data from PhysioNet (warning: requires credentialed access)
 
 **Registration Link:** https://physionet.org/register/
+
 **MIMIC-III Database:** https://physionet.org/content/mimiciii/1.4/
 
 - download .zip file and save 'all_hourly_data.h5' into newly-created /data directory 
@@ -42,6 +43,7 @@ mkdir results
 As detailed in the paper, this code is an extension of the MIMIC-Extract published by Shirley Wang and Matthew B. A. McDermott:
 
 **Code**: https://github.com/MLforHealth/MIMIC_Extract
+
 **Paper**: https://dl.acm.org/doi/10.1145/3368555.3384469
 
 Credit for the database goes to the following:
@@ -55,4 +57,5 @@ Collins, F. S. & Tabak, L. A. NIH plans to enhance reproducibility. Nature 505, 
 The original implementation of the TCN by Bai et. al. (2018) and Locus Lab
 
 **Code**: https://github.com/locuslab/TCN
+
 **Paper**: http://arxiv.org/abs/1803.01271
