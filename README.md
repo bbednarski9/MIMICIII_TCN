@@ -4,7 +4,7 @@ The notebook in this repository contains a PyTorch implementation of the tempora
 
 **Paper:** [Temporal convolutional networks and data rebalancing for clinical length of stay and mortality prediction] (https://www.nature.com/articles/s41598-022-25472-z)
 
-**AMA 11 Citation:** 1. Bednarski BP, Singh AD, Zhang W, Jones WM, Naeim A, Ramezani R. Temporal convolutional networks and data rebalancing for clinical length of stay and mortality prediction. Sci Rep. 2022;12(1):21247. (doi:10.1038/s41598-022-25472-z)
+**Cite as:** Bednarski BP, Singh AD, Zhang W, Jones WM, Naeim A, Ramezani R. Temporal convolutional networks and data rebalancing for clinical length of stay and mortality prediction. Sci Rep. 2022;12(1):21247. (doi:10.1038/s41598-022-25472-z)
 
 
 **Authors:** Bryan P. Bednarski, Akash Deep Singh, Wenhao Zhang, William M. Jones, Arash Naeim, Ramin Ramezani
